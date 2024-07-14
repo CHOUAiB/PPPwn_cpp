@@ -10,6 +10,9 @@ This is the C++ rewrite of [PPPwn](https://github.com/TheOfficialFloW/PPPwn)
 - Restart automatically when failing
 - Can be compiled as a library integrated into your application
 
+# Linux x64-x86 Build status:
+[![CI_linux_x86x64](https://github.com/CHOUAiB/PPPwn_cpp/actions/workflows/ci_linux.yaml/badge.svg)](https://github.com/CHOUAiB/PPPwn_cpp/actions/workflows/ci_linux.yaml)
+
 # Nightly build
 
 You can download the latest build from [nightly.link](https://nightly.link/xfangfang/PPPwn_cpp/workflows/ci.yaml/main?status=completed).
